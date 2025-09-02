@@ -5,7 +5,7 @@ import { GLTFLoader } from 'three/examples/jsm/Addons.js'
 /**
  * Clé API
  */
-const apiKey = '9d63106b0003583259d7d973d5addfa9'
+const apiKey = 'xxx'
 
 // Weather variables
 let weather = null 
@@ -117,7 +117,7 @@ function updateTargetRotation(newWeather) {
 /**
  * Debug
  */
-const gui = new GUI()
+// const gui = new GUI()
 
 /**
  * Base
